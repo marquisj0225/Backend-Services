@@ -1,0 +1,2 @@
+-- This is for part 1:
+-- Initial CREATE TABLE statements for your schema

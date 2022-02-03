@@ -1,0 +1,2 @@
+-- This is for part 3:
+-- Update schema with American Kennel Club registration number and Cat Fanciers' Association registration number
